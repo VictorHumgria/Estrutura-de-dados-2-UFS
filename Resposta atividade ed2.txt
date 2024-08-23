@@ -1,0 +1,12 @@
+Resposta: 
+
+Capacidade de cada cilindro:
+	512 x 40 x 11 = 225.280 Bytes.
+
+Total necessário a ser armazenado:
+	20000 x 256 = 5.120.000 Bytes
+
+Quantidade necessária de cilindros para armazenar: 
+	5.120.000 \ 225.280 = 22,72...
+
+A quantidade necessária de cilindro para armazenar os registro é de 23 cilindros.
